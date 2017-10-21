@@ -1,11 +1,22 @@
 Add ons for Blender 3d
-!1990;!1991;!1992
-
- 1990 git commit -m "another add on"
- 1991  git push -u master origin
- 1992  git push -u origin master
 
 
+
+
+
+_______________________________________________________________________________________________
+
+3DM Snow
+
+Create snow on selected objects.
+
+Download
+
+v0.1.0	3dm_snow.py
+Install
+
+Click on button Install from File... in "User Preference"
+Or Copy 3dm_snow.py in folder "~/.config/blender/2.78/scripts/addons"
 
 _______________________________________________________________________________________________
   Transform
