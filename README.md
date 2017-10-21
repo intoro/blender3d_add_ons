@@ -1,9 +1,23 @@
 Add ons for Blender 3d
-!2006;!2007;!2009
+!1990;!1991;!1992
+
+ 1990 git commit -m "another add on"
+ 1991  git push -u master origin
+ 1992  git push -u origin master
 
 
 
+_______________________________________________________________________________________________
+  Transform
+You Can - Copy / Paste / Paste Mirror, Transform object, vertex, edge and faces.
 
+Download
+
+v0.2.6	3dm_transform.py
+Install
+
+Click on button Install from File... in "User Preference"
+Or Copy 3dm_transform.py in folder "~/.config/blender/2.78/scripts/addons"
 
 _______________________________________________________________________________________________
 BAddons
