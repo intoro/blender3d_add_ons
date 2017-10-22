@@ -3,6 +3,18 @@ Add ons for Blender 3d
 
 
 
+_______________________________________________________________________________________________
+Blender Add-ons: 3DM Morph
+
+Morphing images
+
+Download
+
+v0.1.5	3dm_morph.py
+Install
+
+Click on button Install from File... in "User Preference"
+Or Copy 3dm_morph.py in folder "~/.config/blender/2.78/scripts/addons"
 
 _______________________________________________________________________________________________
 
