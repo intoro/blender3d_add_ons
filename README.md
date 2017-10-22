@@ -1,8 +1,27 @@
 Add ons for Blender 3d
 
+git add *;
+git commit -m "another add on";
+git push -u origin master;
 
 
 
+_______________________________________________________________________________________________
+Joeboy/blender-addons
+
+This is a place to keep my blender add-ons, so I don't lose them. They're
+mostly quick hacks for my own benefit, but other people might find them
+useful too.
+
+So far, these are all for working with the VSE:
+
+Sync Audio: For syncing external audio with your crappy camera audio.
+
+VSE export: Export your audio mix to an Ardour session for more powerful audio mixing.
+
+Mute strip modifiers: Mute / unmute all VSE strip modifiers. Useful if modifiers are slowing down video previewing.
+
+Open strip source: Open a VSE strip's source audio/video in an external editor.
 _______________________________________________________________________________________________
 Blender Add-ons: 3DM Morph
 
