@@ -4,8 +4,30 @@ git add *;
 git commit -m "another add on";
 git push -u origin master;
 
+_______________________________________________________________________________________________
+AllBlue-Blender-Tools
 
+  A set of Blender Add-ons that can be useful here and there...
 
+File Browser Search
+
+  File Browser Search is a BlenderAdd-on that allows you to search for files in Blender File Browser (i.e. when linking/appending resources, opening folders, adding images or movies, opening *.blend files, etc.).
+
+Add-ons Tools
+
+  Add-on Tools allows you to decided which add-ons should be enabled according to *.blend file and not only by User Preferences.
+
+Group Particles Tools
+
+  Group Particles Tools enables a "hidden" functionality of particles systems in Blender which allows better control over particles displayed as objects group.
+
+Mesh Sorting Tools
+
+  Mesh Sorting Tools allows you to sort meshes in a more advanced way. It is quite useful when combined with particles or build/explode modifiers.
+
+Animate Render Layers
+
+  Animate Render Layers allows you to animate render layers using keyframes. It can be used to speed up renders or replace objects in a scene with for example shattered objects from another layer.
 _______________________________________________________________________________________________
 Joeboy/blender-addons
 
